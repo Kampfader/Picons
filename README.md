@@ -1,2 +1,2 @@
 # Picons
-Unitymedia Blue Picons
+Unitymedia Picons
